@@ -3,5 +3,5 @@ Limitation: The overall font is Figtree, regarding of "Gotham" which is not avai
 
 # Structure
 
-- All asset files has been placed in <pre>public/</pre> including <pre>css/style.css</pre> for overall styling and <pre>image/</pre> for images and svg icon.
-- Home page file has been placed in <pre>app/Views/homepage.php</pre>
+1. All asset files has been placed in <b>public/</b> including <b>css/style.css</b> for overall styling and <b>image/</b> for images and SVG icons.
+2. Home page file has been placed at <b>app/Views/homepage.php</b>
