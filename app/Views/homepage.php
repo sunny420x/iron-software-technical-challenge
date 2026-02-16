@@ -5,9 +5,9 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
     <link rel="stylesheet" href="css/style.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="og:title" content="IronPDF | Building on the success of IronPDF for .NET">
-    <meta name="og:description" content="IronPDF Beta Program also coming soon for Python | Node.JS | Java">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="og:title" content="IronPDF | Building on the success of IronPDF for .NET" />
+    <meta name="og:description" content="IronPDF Beta Program also coming soon for Python | Node.JS | Java" />
 </head>
 
 <body>
@@ -36,7 +36,7 @@
                         <h1>Be one of the first</h1>
                         <h2>Sign up NOW to get early access!</h2>
                         <div class="sign-up-now-input">
-                            <input type="email" placeholder="Enter email address">
+                            <input type="email" placeholder="Enter email address" />
                             <button>Sign up now</button>
                         </div>
                         <div class="coming-soon d-flex">
