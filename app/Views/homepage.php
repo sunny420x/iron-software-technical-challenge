@@ -14,22 +14,22 @@
     <div class="">
         <div class="header">
             <div class="navigator p-3">
-                <img src="image/LOGO WHITE.svg" alt="">
+                <img src="image/LOGO WHITE.svg" alt="Iron Software Logo" />
                 <ul>
-                    <li>Products <img src="image/arrow.svg" class="float-end p-1 ps-2"></li>
+                    <li>Products <img src="image/arrow.svg" class="float-end p-1 ps-2" alt="arrow icon" /></li>
                     <li>About Us</li>
                     <li>Career</li>
                 </ul>
             </div>
             <div class="container">
                 <div class="content">
-                    <img src="image/logo.svg" alt="" class="mb-4">
+                    <img src="image/logo.svg" alt="Iron Software Logo" class="mb-4" />
                     <p class="mt-4">Building on the success of IronPDF for .NET</p>
                     <span class="header-text">Beta Software Program</span><br>
                     <span class="header-text with-color">IronPDF for C++</span>
                 </div>
             </div>
-            <img src="image/ribbon.png" class="ribbon" alt="">
+            <img src="image/ribbon.png" class="ribbon" alt="Ribbon" />
             <div class="section">
                 <div class="sign-up-now">
                     <div class="container">
@@ -51,7 +51,7 @@
                         <div class="container">
                             <h1 class="mb-5">IronPDF for C++
                                 <span class="intersect">
-                                    <img src="image/coming-soon-badge.svg" alt="">
+                                    <img src="image/coming-soon-badge.svg" alt="coming-soon-badge" />
                                 </span>
                             </h1>
                             <div class="row mt-4">
@@ -84,7 +84,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-auto">
-                                <img src="image/HTML to PDF icon.svg" alt="">
+                                <img src="image/HTML to PDF icon.svg" alt="HTML to PDF icon" />
                             </div>
                             <div class="col-lg ps-5">
                                 <h2>Why make a C++ PDF Library</h2>
@@ -138,7 +138,7 @@
                     <div class="footer-sign-up">
                         <span>Sign up to our <span class="with-color">Beta Program</span></span>
                         <div class="sign-up-now-input center mt-4">
-                            <input type="email" placeholder="Enter email address">
+                            <input type="email" placeholder="Enter email address" />
                             <button>Sign up now</button>
                         </div>
                     </div>
