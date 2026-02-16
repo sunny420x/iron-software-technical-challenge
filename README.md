@@ -30,3 +30,13 @@ Optimize for Core Web Vitals (CLS, LCP, FID, performance best
 practices).<br>
 ✅ Ensure the page meets basic accessibility considerations (ARIA where
 needed, keyboard navigation, contrast, etc.).<br>
+
+# QA checklist
+
+✅ Pixel alignment and spacing vs. Figma<br>
+✅ Typography accuracy<br>
+✅ Responsiveness on multiple breakpoints<br>
+✅ Cross-browser behaviour (Chrome, Firefox, Safari if available)<br>
+✅ SEO validation (metadata, headings, alt tags)<br>
+✅ Core Web Vitals considerations<br>
+✅ Lighthouse checks<br>
