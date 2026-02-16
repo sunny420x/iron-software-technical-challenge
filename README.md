@@ -17,16 +17,16 @@ Limitation: The overall font is Figtree, regarding of "Gotham" which is not avai
 
 # Checklist
 
-✅ Use the latest versions of HTML, CSS, and JavaScript.
+✅ Use the latest versions of HTML, CSS, and JavaScript.<br>
 ✅ Use Bootstrap (latest version) combined with clean, modular custom
-CSS.
-✅ Use jQuery or pure JS only when necessary.
+CSS.<br>
+✅ Use jQuery or pure JS only when necessary.<br>
 ✅ Convert the Figma design into a pixel-perfect, production-quality
-layout.
+layout.<br>
 ✅ Ensure responsive behaviour across all screen sizes (mobile design is
-not provided, but you must make it responsive).
+not provided, but you must make it responsive).<br>
 ✅ Use semantic HTML, correct headings, meta tags, alt attributes, etc.
 Optimize for Core Web Vitals (CLS, LCP, FID, performance best
-practices).
+practices).<br>
 ✅ Ensure the page meets basic accessibility considerations (ARIA where
-needed, keyboard navigation, contrast, etc.).
+needed, keyboard navigation, contrast, etc.).<br>
