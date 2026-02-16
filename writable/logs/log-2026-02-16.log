@@ -1,0 +1,543 @@
+CRITICAL - 2026-02-16 04:17:58 --> Error: Class "CI_Model" not found
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 15.
+ 1 SYSTEMPATH/View/View.php(238): include()
+ 2 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 3 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 4 APPPATH/Controllers/Home.php(9): view('homepage')
+ 5 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 6 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:18:11 --> Error: Class "CI_Model" not found
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 15.
+ 1 SYSTEMPATH/View/View.php(238): include()
+ 2 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 3 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 4 APPPATH/Controllers/Home.php(9): view('homepage')
+ 5 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 6 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:18:11 --> Error: Class "CI_Model" not found
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 15.
+ 1 SYSTEMPATH/View/View.php(238): include()
+ 2 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 3 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 4 APPPATH/Controllers/Home.php(9): view('homepage')
+ 5 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 6 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:18:16 --> Error: Class "CI_Model" not found
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 15.
+ 1 SYSTEMPATH/View/View.php(238): include()
+ 2 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 3 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 4 APPPATH/Controllers/Home.php(9): view('homepage')
+ 5 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 6 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:18:17 --> Error: Class "CI_Model" not found
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 15.
+ 1 SYSTEMPATH/View/View.php(238): include()
+ 2 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 3 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 4 APPPATH/Controllers/Home.php(9): view('homepage')
+ 5 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 6 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:18:26 --> Error: Class "CI_Model" not found
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 15.
+ 1 SYSTEMPATH/View/View.php(238): include()
+ 2 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 3 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 4 APPPATH/Controllers/Home.php(9): view('homepage')
+ 5 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 6 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:18:40 --> Error: Class "CI_Model" not found
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 15.
+ 1 SYSTEMPATH/View/View.php(238): include()
+ 2 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 3 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 4 APPPATH/Controllers/Home.php(9): view('homepage')
+ 5 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 6 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:23:11 --> Error: Class "App\Controllers\Data_model" not found
+[Method: GET, Route: /]
+in APPPATH/Controllers/Home.php on line 8.
+ 1 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:25:15 --> Error: Class "App\Models\Data_model" not found
+[Method: GET, Route: /]
+in APPPATH/Controllers/Home.php on line 9.
+ 1 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:25:33 --> Error: Class "App\Models\Data_model" not found
+[Method: GET, Route: /]
+in APPPATH/Controllers/Home.php on line 9.
+ 1 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:26:33 --> Error: Class "App\Models\Data_model" not found
+[Method: GET, Route: /]
+in APPPATH/Controllers/Home.php on line 9.
+ 1 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:30:54 --> ErrorException: Trying to access array offset on false
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 28.
+ 1 APPPATH/Views/homepage.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on false', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 28)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:30:54 --> ErrorException: Trying to access array offset on false
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 28.
+ 1 APPPATH/Views/homepage.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on false', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 28)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:31:28 --> ErrorException: Trying to access array offset on false
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 28.
+ 1 APPPATH/Views/homepage.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on false', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 28)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:31:34 --> ErrorException: Trying to access array offset on false
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 28.
+ 1 APPPATH/Views/homepage.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on false', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 28)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:31:42 --> ErrorException: Trying to access array offset on false
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 28.
+ 1 APPPATH/Views/homepage.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on false', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 28)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:32:01 --> ErrorException: Trying to access array offset on false
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 28.
+ 1 APPPATH/Views/homepage.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on false', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 28)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:33:25 --> ErrorException: Trying to access array offset on false
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 28.
+ 1 APPPATH/Views/homepage.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on false', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 28)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:33:47 --> ErrorException: Undefined variable $section
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 28.
+ 1 APPPATH/Views/homepage.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $section', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 28)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:34:13 --> ErrorException: Trying to access array offset on false
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 28.
+ 1 APPPATH/Views/homepage.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on false', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 28)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:35:19 --> ErrorException: foreach() argument must be of type array|object, false given
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 28.
+ 1 APPPATH/Views/homepage.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, false given', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 28)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:35:20 --> ErrorException: foreach() argument must be of type array|object, false given
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 28.
+ 1 APPPATH/Views/homepage.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, false given', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 28)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:35:56 --> ErrorException: foreach() argument must be of type array|object, false given
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 27.
+ 1 APPPATH/Views/homepage.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, false given', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 27)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:36:12 --> ErrorException: foreach() argument must be of type array|object, false given
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 28.
+ 1 APPPATH/Views/homepage.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, false given', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 28)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:37:12 --> ErrorException: Trying to access array offset on false
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 27.
+ 1 APPPATH/Views/homepage.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on false', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 27)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:39:04 --> ErrorException: Trying to access array offset on false
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 27.
+ 1 APPPATH/Views/homepage.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on false', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 27)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:40:02 --> ErrorException: Trying to access array offset on false
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 32.
+ 1 APPPATH/Views/homepage.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on false', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 32)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:40:45 --> ErrorException: Trying to access array offset on false
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 27.
+ 1 APPPATH/Views/homepage.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on false', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 27)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:40:46 --> ErrorException: Trying to access array offset on false
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 27.
+ 1 APPPATH/Views/homepage.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on false', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 27)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:42:50 --> ErrorException: Array to string conversion
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 27.
+ 1 APPPATH/Views/homepage.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 27)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:42:51 --> ErrorException: Array to string conversion
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 27.
+ 1 APPPATH/Views/homepage.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 27)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:42:56 --> ErrorException: Array to string conversion
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 27.
+ 1 APPPATH/Views/homepage.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 27)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:44:10 --> ErrorException: Undefined array key 2
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 44.
+ 1 APPPATH/Views/homepage.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 2', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 44)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:44:10 --> ErrorException: Undefined array key 2
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 44.
+ 1 APPPATH/Views/homepage.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 2', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 44)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:45:27 --> ErrorException: Undefined array key 2
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 58.
+ 1 APPPATH/Views/homepage.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 2', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 58)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:45:27 --> ErrorException: Undefined array key 2
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 58.
+ 1 APPPATH/Views/homepage.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 2', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 58)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:48:58 --> ErrorException: Undefined array key 1
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 87.
+ 1 APPPATH/Views/homepage.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 1', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 87)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')
+CRITICAL - 2026-02-16 04:48:58 --> ErrorException: Undefined array key 1
+[Method: GET, Route: /]
+in APPPATH/Views/homepage.php on line 87.
+ 1 APPPATH/Views/homepage.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 1', '/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php', 87)
+ 2 SYSTEMPATH/View/View.php(238): include('/Users/costerraid/Downloads/IronSoftware Assignment/app/Views/homepage.php')
+ 3 SYSTEMPATH/View/View.php(241): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():235}()
+ 4 SYSTEMPATH/Common.php(1250): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH/Controllers/Home.php(11): view('homepage', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/costerraid/Downloads/IronSoftware Assignment/public/index.php')

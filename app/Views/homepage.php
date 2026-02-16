@@ -24,17 +24,17 @@
             <div class="container">
                 <div class="content">
                     <img src="image/logo.svg" alt="Iron Software Logo" class="mb-4" />
-                    <p class="mt-4">Building on the success of IronPDF for .NET</p>
-                    <span class="header-text">Beta Software Program</span><br>
-                    <span class="header-text with-color">IronPDF for C++</span>
+                    <p class="mt-4"><?=$homepage_data[0][0]?></p>
+                    <span class="header-text"><?=$homepage_data[0][1]?></span><br>
+                    <span class="header-text with-color"><?=$homepage_data[0][2]?></span>
                 </div>
             </div>
             <img src="image/ribbon.png" class="ribbon" alt="Ribbon" />
             <div class="section">
                 <div class="sign-up-now">
                     <div class="container">
-                        <h1>Be one of the first</h1>
-                        <h2>Sign up NOW to get early access!</h2>
+                        <h1><?=$homepage_data[1][0]?></h1>
+                        <h2><?=$homepage_data[1][1]?></h2>
                         <div class="sign-up-now-input">
                             <input type="email" placeholder="Enter email address" />
                             <button>Sign up now</button>
@@ -55,27 +55,23 @@
                                 </span>
                             </h1>
                             <div class="row mt-4">
-                                <div class="col-lg"># Generate PDFs from HTML in C++ <div class="divider-3 float-end">
+                                <div class="col-lg"><?=$homepage_data[2][0]?> <div class="divider-3 float-end">
                                     </div>
                                 </div>
-                                <div class="col-lg"># Combine, split, and modify PDFs quickly in C++ <div
+                                <div class="col-lg"><?=$homepage_data[2][1]?> <div
                                         class="divider-3 float-end"></div>
                                 </div>
-                                <div class="col-lg"># Extract text and images from PDFs using C++</div>
+                                <div class="col-lg"><?=$homepage_data[2][2]?></div>
                             </div>
                         </div>
                     </div>
                     <div class="content">
                         <div class="container">
                             <p>
-                                The new <b>IronPDF library for C++</b> will enhance the C++ developer’s tool set with
-                                robust PDF generation and conversion capabilities. Developers will be able to generate
-                                new PDFs from HTML content (from text or from URL), as well as to combine, split,
-                                extract, and modify content from existing PDFs.
+                                <?=$homepage_data[3][0]?>
                             </p>
                             <p>
-                                <b>IronPDF for C++</b> will help developers create C++ applications that can do all of
-                                these PDF processing tasks and more, with speed, precision, control, and excellence.
+                                <?=$homepage_data[3][1]?>
                             </p>
                         </div>
                     </div>
@@ -87,24 +83,16 @@
                                 <img src="image/HTML to PDF icon.svg" alt="HTML to PDF icon" />
                             </div>
                             <div class="col-lg ps-5">
-                                <h2>Why make a C++ PDF Library</h2>
-                                <p>C++ is one of the most popular, oldest, and important programming languages in use, being
-                                    the language of choice in low-level systems and network programming and other domains
-                                    where performance is critical.</p>
-                                <p>The release of IronPDF for C++ will aid developers in building performant applications
-                                    that can carry out PDF-related processing tasks</p>
+                                <h2><?=$homepage_data[4][0]?></h2>
+                                <?=$homepage_data[4][1]?>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="early-access">
                     <div class="container">
-                        <span>Early Access to <span class="with-color">C++ PDF Library</span></span>
-                        <p>Joining the early access program will allow you to collaborate closely with our
-                            engineering team. You will be playing a key role in the development process as you share
-                            your early experiences using the C++ PDF library before its official launch. Your
-                            continual feedback after we release the library will be immensely helpful as we release
-                            new features and improve on existing features.</p>
+                        <span><?=$homepage_data[5][0]?></span>
+                        <p><?=$homepage_data[5][1]?></p>
                         <div class="row row-cols-3 gap-3 g-0">
                             <div class="item col">
                                 <div class="row">
